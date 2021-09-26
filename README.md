@@ -2,7 +2,7 @@
 
 To get you started, here are a few things about me:
 
-- 🏦 I am currently working on a very cool project at @Accenture!
+- 🏦 I am currently working on a very cool project @ Accenture!
 - 👨🏾‍💻 I am currently improving my software engineering & communications skills, as well as exploring new technologies.
 - 🤝 I am looking forward to collaborating on projects/tools that improve (or at least have the intention to improve) software development.
 - 📫 Reach me here: https://www.linkedin.com/in/ivan-tembe/
@@ -30,6 +30,7 @@ Some of the tools & framework I use:
 - Express
 - NestJS
 - Postgres, MongoDB & SQL
+
 
 
 
