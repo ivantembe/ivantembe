@@ -15,7 +15,7 @@ I have worked in different industries, from retail-banking to self-thought video
 
 Continuing to learn about software engineering, and sharing my success & failure as I grow, is my actual focus.📚
 
-
+<!--
 Some of the tools & framework I use:
 
 ##### Frontend
@@ -33,6 +33,7 @@ Some of the tools & framework I use:
 - NestJS
 - Postgres, MongoDB & SQL
 
+-->
 
 
 
