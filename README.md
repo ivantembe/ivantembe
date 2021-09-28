@@ -7,6 +7,10 @@ To get you started, here are a few things about me:
 - 🤝 I am looking forward to collaborating on projects/tools that improve (or at least have the intention to improve) software development.
 - 📫 Reach me here: https://www.linkedin.com/in/ivan-tembe/
 
+Stay safe😷 & healthy🥑
+
+<!--
+
 A little more about me:
 
 I am a full-stack developer, working mainly with JavaScript and other cool tools for building web and mobile apps.\
@@ -16,7 +20,7 @@ I have worked in different industries, from retail-banking to self-thought video
 Continuing to learn about software engineering, and sharing my success & failure as I grow, is my actual focus.📚
 
 
-<!--
+
 Some of the tools & framework I use:
 
 ##### Frontend
@@ -37,5 +41,5 @@ Some of the tools & framework I use:
 -->
 
 
-Stay safe😷 & healthy🥑
+
 
